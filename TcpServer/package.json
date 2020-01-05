@@ -1,0 +1,17 @@
+{
+  "name": "node_adv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "power.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "nodemon": "^2.0.2",
+    "uuid": "^3.3.3"
+  }
+}
